@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="021c6fcc-e419-4484-a955-ec8369254778" name="Changes" comment="Changes">
+      <change afterPath="$PROJECT_DIR$/out/production/MochaStudy/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/MochaStudy/sec01_operator_1/EX04/RelationOperator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/MochaStudy/sec01_operator_1/EX05/LogicalOpertaor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/MochaStudy/sec01_operator_1/EX06/AssignmentOperator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/MochaStudy/sec01_operator_1/EX07/ConditionalOperator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/MochaStudy/study/exampletutorial/practiceexample/FindDecimals.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/MochaStudy/study/exampletutorial/practiceexample/ReverseArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/MochaStudy/study/exampletutorial/practiceexample/ReverseArray_1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/MochaStudy/study/exampletutorial/practiceexample/SUGGame.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/MochaStudy/study/exampletutorial/practiceexample/ScoreCalculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/MochaStudy/study/exampletutorial/스위치와케이스/SwitchCase.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/MochaStudy/study/exampletutorial/스위치와케이스/SwitchCaseTest1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/MochaStudy/study/exampletutorial/스위치와케이스/SwitchCaseTest2Adv.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/MochaStudy/study/exampletutorial/어레이배열/ArrayTest1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/MochaStudy/study/exampletutorial/어레이배열/ArrayTest2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/MochaStudy/study/exampletutorial/어레이배열/ArrayTest3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/MochaStudy/study/exampletutorial/이프와엘스/IfElse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/MochaStudy/study/exampletutorial/이프와엘스/IfElseIfElse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/MochaStudy/study/exampletutorial/이프와엘스/IfTest1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/MochaStudy/study/exampletutorial/이프와엘스/IfTest2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/MochaStudy/study/exampletutorial/이프와엘스/If문.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/MochaStudy/study/exampletutorial/포와와일문/ForTest1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/MochaStudy/study/exampletutorial/포와와일문/ForTest2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/MochaStudy/study/exampletutorial/포와와일문/ForTest3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/MochaStudy/study/exampletutorial/포와와일문/WhileTest1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/MochaStudy/study/exampletutorial/포와와일문/WhileTest2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sec01_operator_1/EX04/RelationOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sec01_operator_1/EX05/LogicalOpertaor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sec01_operator_1/EX06/AssignmentOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sec01_operator_1/EX07/ConditionalOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/exampletutorial/practiceexample/FindDecimals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/exampletutorial/practiceexample/ReverseArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/exampletutorial/practiceexample/ReverseArray_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/exampletutorial/practiceexample/SUGGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/exampletutorial/practiceexample/ScoreCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/exampletutorial/스위치와케이스/SwitchCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/exampletutorial/스위치와케이스/SwitchCaseTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/exampletutorial/스위치와케이스/SwitchCaseTest2Adv.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/exampletutorial/어레이배열/ArrayTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/exampletutorial/어레이배열/ArrayTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/exampletutorial/어레이배열/ArrayTest3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/exampletutorial/이프와엘스/IfElse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/exampletutorial/이프와엘스/IfElseIfElse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/exampletutorial/이프와엘스/IfTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/exampletutorial/이프와엘스/IfTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/exampletutorial/이프와엘스/If문.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/exampletutorial/포와와일문/ForTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/exampletutorial/포와와일문/ForTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/exampletutorial/포와와일문/ForTest3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/exampletutorial/포와와일문/WhileTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/study/exampletutorial/포와와일문/WhileTest2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.project" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2ASYcOjDfB2oO1yuQow299cBZRz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/lia/IdeaProjects/MochaStudy&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="021c6fcc-e419-4484-a955-ec8369254778" name="Changes" comment="" />
+      <created>1655004531814</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1655004531814</updated>
+      <workItem from="1655004533183" duration="18000" />
+      <workItem from="1655004585807" duration="9000" />
+      <workItem from="1655004615352" duration="24000" />
+      <workItem from="1655004650029" duration="103000" />
+      <workItem from="1655004769050" duration="10000" />
+      <workItem from="1655004808421" duration="20000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
